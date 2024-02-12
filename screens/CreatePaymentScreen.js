@@ -73,7 +73,7 @@ const CreatePaymentScreen = ({ navigation }) => {
       notes: concept,
       fiat: "EUR",
       language: "ES",
-      reference: "your_reference_value",
+      reference: "valor",
     };
     
     
